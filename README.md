@@ -9,7 +9,7 @@
 
 - 🔗 Linkedin [https://www.linkedin.com/in/alejandro-di-salvatore/](https://www.linkedin.com/in/alejandro-di-salvatore/)
 
-- ❔ Ask me about **C++, C# , Blueprint**
+- ❔ Ask me about **Unreal Engine, C++, Blueprint, Unity, C#**
 
 - 📩 How to reach me **aledisalva@gmail.com**
 
