@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Di Salvatore</h1>
 <h3 align="center">🎮 Crafting Immersive and Optimized Gaming Experiences with Unreal Engine and C++</h3>
 
-- 🆓 Freelance **Shadows of Innocence**
-
 - I’m Alway learning about **Unreal Engine**
+
+- 🆓 Freelance **Shadows of Innocence**
 
 - 🆓 Freelance **Advanced GAS System Integration**
 
